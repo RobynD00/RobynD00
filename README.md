@@ -17,7 +17,7 @@ I have 3 years of professional experience — 2 years as a Full-Stack Developer 
 
 > All code is stored in private enterprise repositories. I am happy to demo live systems or provide sanitized code samples during interviews.
 
-I am open to software development roles, particularly where I can grow my skills in Java, Spring Boot and React.
+I am open to all software development roles, particularly where I can grow my skills in Java, Spring Boot and React.
 
 📧 Email: **RobynDavies15@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/robyn-davies-53540218b/**
