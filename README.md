@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 My name is Robyn
 
-<!--
-**RobynD00/RobynD00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Software Engineering student with a strong focus on Java. I am actively building my skills in the Spring Boot framework and React, with an interest in modern backend and full-stack development.
 
-Here are some ideas to get you started:
+## What I’m Learning
+- Java SE/EE
+- Spring Boot (REST APIs, Spring Data, Spring Security)
+- Testing with JUnit & Mockito
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 3 years of professional experience — 2 years as a Full-Stack Developer and 1 year as a Junior Developer.
+
+## What I Do at Work
+- Build full-stack applications using PHP, JavaScript (jQuery), HTML5 & CSS
+- Develop responsive internal systems used by 100+ staff
+- Design, optimize & maintain MySQL databases
+- Collaborate with cross-functional teams for feature delivery and support
+
+> All code is stored in private enterprise repositories. I am happy to demo live systems or provide sanitized code samples during interviews.
+
+I am open to software development roles, particularly where I can grow my skills in Java, Spring Boot and React.
+
+📧 Email: **RobynDavies15@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/robyn-davies-53540218b/**
